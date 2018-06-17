@@ -3,9 +3,9 @@
 ## Android app to convert amount from Dollar to Rupees
 
 
-<img src="Start.jpg" height="500"   />
+<img src="Start.jpg"  align="center" height="500"   />
 
-<img src="Amount.jpg"height="500"    />
+<img src="Amount.jpg" align="centre" height="500"    />
 
 <img src="Conversion.jpg"  height="500"  />
 
