@@ -2,4 +2,11 @@
 
 ## Android app to convert amount from Dollar to Rupees
 
-![Sun](Sun.png)
+![Start](Start.jpg)
+
+
+![Amount](Amount.jpg)
+
+
+
+![Conversion](Conversion.jpg)
