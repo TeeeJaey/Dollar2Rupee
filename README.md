@@ -7,5 +7,5 @@
 
 <img src="Amount.jpg" height="500" align="left" />
 
-<img src="Conversion.jpg" height="500" align="left" />
+<img src="Conversion.jpg" height="500"  />
 
