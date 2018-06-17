@@ -4,6 +4,8 @@
 
 
 <img src="Start.jpg" height="450"  align="left" />
-.
-<img src="Amount.jpg" height="450"  align="center" /> <img src="Conversion.jpg" height="450" align="right" />
+
+<img src="Amount.jpg" height="450" />
+
+<img src="Conversion.jpg" height="450" align="right" />
 
